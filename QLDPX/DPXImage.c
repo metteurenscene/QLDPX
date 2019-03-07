@@ -3,6 +3,7 @@
 //  QLDPX
 //
 //  Created by Thomas Angarano on 12/01/2019.
+//  DPX header structs modified from http://www.cineon.com/ff_draft.php
 //  Copyright © 2019 Thomas Angarano. All rights reserved.
 //
 
